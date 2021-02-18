@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Hazar_Ozyagci_2017510090 {
+public class FindSequence {
 
 	public static void main(String[] args) throws IOException {
 		
