@@ -16,5 +16,5 @@ charged ```g```; the total cost of a gap of length ```L``` is equal to ```gL```.
 3.Linear gap penalty equal to -5 (i.e., a cost of -5 is assessed for each gap symbol) <br />
 
 ## Output:
-1.The maximum alignment score between x and y. 
+1.The maximum alignment score between x and y.  <br />
 2.Best alignment between x and y.
