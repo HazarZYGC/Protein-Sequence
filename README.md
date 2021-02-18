@@ -12,9 +12,9 @@ charged ```g```; the total cost of a gap of length ```L``` is equal to ```gL```.
 
 ## Input:
 1.Two protein strings x and y, each one is in one line of the file (at most 1000 amino acid) <br />
-2. Cost matrix (BLOSUM62 scoring matrix) <br />
-3. Linear gap penalty equal to -5 (i.e., a cost of -5 is assessed for each gap symbol) <br />
+2.Cost matrix (BLOSUM62 scoring matrix) <br />
+3.Linear gap penalty equal to -5 (i.e., a cost of -5 is assessed for each gap symbol) <br />
 
 ## Output:
-1. The maximum alignment score between x and y. 
-2. Best alignment between x and y.
+1.The maximum alignment score between x and y. 
+2.Best alignment between x and y.
